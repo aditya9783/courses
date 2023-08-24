@@ -30,7 +30,7 @@ let customers = [
       custId: 3,
       name: "Jack",
       password: "jack1234",
-      role: "faculty",
+      role: "Faculty",
       email: "jack@gmail.com"
     },
     {
@@ -44,7 +44,7 @@ let customers = [
       custId: 5,
       name: "Harry",
       password: "harry1234",
-      role: "faculty",
+      role: "Faculty",
       email: "harry@gmail.com"
     },
     {
@@ -58,7 +58,7 @@ let customers = [
       custId: 7,
       name: "Aditya",
       password: "aditya123",
-      role: "faculty",
+      role: "Faculty",
       email: "aditya@gmail.com"
     },
     {
@@ -79,7 +79,7 @@ let customers = [
       custId: 10,
       name: "Gia",
       password: "gia1234",
-      role: "faculty",
+      role: "Faculty",
       email: "gia@gmail.com"
     }
   ];
